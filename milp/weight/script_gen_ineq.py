@@ -1,3 +1,18 @@
+# Copyright 2022 Rusydi H. Makarim and Raghvendra Rohit
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+
 #Minimized Product of Sums:
 W2 = "(A+C)(D'+J')(B+C'+H)(C'+E')(B'+C)(C'+H'+I)(A'+C')(D'+E)(B'+I')(C+E+H')(D'+H+I)(D'+H'+I')(C+D+F+J)(C'+I'+J')(E'+F'+J)(C+E+G)(E'+F+J')(C+F'+G'+J')(B'+F'+G'+J)(B'+F+G+J)(C'+F+G'+J')(E+F'+G+J')"
 
