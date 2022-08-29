@@ -98,7 +98,7 @@ for i in range(len(ZZ4)):
 
 ZZ5.sort()
 for z in ZZ5:
-    print z
+    print(z)
 print(len(ZZ5))
 
      
