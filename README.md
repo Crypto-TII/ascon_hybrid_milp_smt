@@ -1,6 +1,7 @@
-This is the repository for the following paper
+This is the git repository for the following paper
     
-> Put the paper description here
+> Rusydi H. Makarim and Raghvendra Rohit. [*Towards Tight Differential Bounds of Ascon: A Hybrid Usage of SMT and MILP*](https://tosc.iacr.org/index.php/ToSC/article/view/9859/9358).
+> IACR Transactions on Symmetric Cryptology. Volume 2022, Issue 3.
 
 
 ### Directory Structures
